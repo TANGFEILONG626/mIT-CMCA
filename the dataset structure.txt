@@ -1,0 +1,34 @@
+E:/FewshotCodes/dataset/PlantVillage/
+├── train1/
+│   ├── class1/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   └── description.txt
+│   ├── class2/
+│   │   └── ...
+│   └── ...
+└── val1/
+    ├── class1/
+    │   ├── image3.jpg
+    │   └── description.txt
+    ├── class2/
+    │   └── ...
+    └── ...
+
+
+E:/FewshotCodes/dataset/maizeDiseases/
+├── train2/
+│   ├── class1/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   └── description.txt
+│   ├── class2/
+│   │   └── ...
+│   └── ...
+└── val2/
+    ├── class1/
+    │   ├── image3.jpg
+    │   └── description.txt
+    ├── class2/
+    │   └── ...
+    └── ...
